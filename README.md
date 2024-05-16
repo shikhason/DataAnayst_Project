@@ -18,7 +18,7 @@ Understanding first requirements:-
 
 *What is the main reason behind their leaving?
 
-Understanding second requirements:-
+Understanding second requirements:- Retention Manager is worried about customer rention and asked for create a customer retention dashboard with following requirements:
 
 *Customers who left within the last month
 
