@@ -1,6 +1,23 @@
-# DataAnayst_Project
+
 DataAnayst_Project
 Manager wants to increase customer engagement and retain employee churn
+
+
+Understanding requirements:-
+*Overall customer satisfaction
+*Overall calls answered/abandoned
+*Call by time
+*Average speed of answer
+*Agent's performance quadrant -> average handle time(talk duration> vs calls answered
+
+*How many active employees are there in the company
+
+*What is the attrition and retention rate every year?
+
+*How many employees are loyal for their company?
+
+*What is the main reason behind their leaving?
+
 
 Action:-
 
