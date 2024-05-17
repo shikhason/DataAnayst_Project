@@ -49,6 +49,8 @@ KPI 5
 4. Job level promotion............
 5.Most hiring in Executive level job in Male category 87.5%
 6. Womens are highly promoted in juniour level job
+Customer engagement and Retention on which service
+7. 91% of customers are taking Phone Service
 
 
 
