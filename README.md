@@ -1,9 +1,19 @@
 
-DataAnayst_Project
+DataAnayst_Project:
+
+Situation:-
+Call Centre Manager of PhoneNow facing some problems to understand the trends in customer and employee behaviour. They want to improve the growth and performance of the company by increasing employees and customers engagement.
+
+
+
+
+Pwc are upskilling their employees in IT AI and power bi to stay updated in this compititive world
+but lots of employees are attrite the company so the telecom manger worried because employees are hardearnd they dont want to loss existing employee. they came with 2 requirement
 Manager wants to increase customer engagement and retain employee churn
 
 
 Understanding first requirements:-
+Here Telecom Manager wants to understand the call centre trends
 *Overall customer satisfaction
 *Overall calls answered/abandoned
 *Call by time
