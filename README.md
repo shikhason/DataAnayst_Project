@@ -49,8 +49,21 @@ KPI 5
 4. Job level promotion............
 5.Most hiring in Executive level job in Male category 87.5%
 6. Womens are highly promoted in juniour level job
+
 Customer engagement and Retention on which service
+Customer Risk Analysis:
 7. 91% of customers are taking Phone Service
+8. Highest retention in ................Services
+9. 41% Churn rate in Fiber optic Internet service
+1) Increase tech support   capacity for Fiber Optic customers and lower tech tickets per customer to 0.5
+
+
+
+2) Increase sale of 1 and 2 year contracts by 5% each
+
+
+
+3) Yearly increase of automatic payments by 5%
 
 
 
