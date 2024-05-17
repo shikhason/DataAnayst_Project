@@ -7,8 +7,15 @@ Call Centre Manager of PhoneNow facing some problems to understand the trends in
 
 Task:-Acted as a  data analyst to develop 3 dashboard
 1. Call Centre Trends
-2. Customer Retention
-3. KPI in Diversity and Inclusion for an organisation.
+2. Customer Retention: Services each customer has signed up for:phone--> multiple lines -->internet -->online security -->online backup -->device protection -->tech support -->streaming TV and movies
+   #IMPORTANT FACTORS FORMING A GENERAL TREND AMONGST THE ATTRITED CUSTOMERS ARE AS FOLLOWS:-
+   *Customer account information: how long as a customer -->contract -->payment method -->paperless biling -->monthly charges-->total charges
+   --> number of tickets opened in the categories administrative and technical
+4. KPI in Diversity and Inclusion for an organisation.
+
+
+To publish the findings based on data analysis.
+*For analyzing the data,various factors affecting the business(i,e) should be listed out.
 
 Understanding requirements:-
 
@@ -28,9 +35,7 @@ Action:-
 
 *Data Visualisation:-created interactive visuals by calculating various measures to draw insights from the data
 
-Pwc are upskilling their employees in IT AI and power bi to stay updated in this compititive world
-but lots of employees are attrite the company so the telecom manger worried because employees are hardearnd they dont want to loss existing employee. they came with 2 requirement
-Manager wants to increase customer engagement and retain employee churn
+
 
 
 Understanding first requirements:-
@@ -46,9 +51,9 @@ Understanding second requirements:- Retention Manager is worried about customer 
 
 *Customers who left within the last month
 
-*Services each customer has signed up for:phone,multiple lines,internet, online security,online backup,device protection, tech support and streaming TV and movies
 
-*Customer account information: how long as a customer,contract,payment method, paperless biling, monthly charges, total charges and number of tickets opened in the categories administrative and technical
+
+
 
 *Demographic info about customers- gender,age range and if they have partners and dependents 
 
