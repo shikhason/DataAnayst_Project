@@ -52,9 +52,15 @@ KPI 5
 
 Customer engagement and Retention on which service
 Customer Risk Analysis:
+
 7. 91% of customers are taking Phone Service
-8. Highest retention in ................Services
-9. 41% Churn rate in Fiber optic Internet service
+   
+9. Highest retention in ................Services
+
+10. 41% Churn rate in Fiber optic Internet service
+
+
+
 1) Increase tech support   capacity for Fiber Optic customers and lower tech tickets per customer to 0.5
 
 
