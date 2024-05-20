@@ -49,55 +49,30 @@ Action:-
 *Data Visualisation:-created interactive visuals by calculating various measures to draw insights from the data
 
 Key Insights:-
-KPI 4
-1. Male and Female both Performance Rating is equivalent
+KPI 1: Based on Employee engagement in company
+1. Total customers are 7043 and total churn rate is 26.54%
+2. Highest churn rate is 41% in Fiber optices internet service
+3. Highest churn in Mailed Check payment type is
+4. Total number of active employees are there in the company
 
-KPI 5
-2. In Executive designation female hiring is just 12%
-3. Average performance rating of leavers Female is 11% whereas Male is 9%
-4. Job level promotion............
-5.Most hiring in Executive level job in Male category 87.5%
-6. Womens are highly promoted in juniour level job
-
-Customer engagement and Retention on which service
+KPI 2:Customer engagement and Retention based on services
 Customer Risk Analysis:
 
 7. 91% of customers are taking Phone Service
    
 9. Highest retention in ................Services
-
 10. 41% Churn rate in Fiber optic Internet service
-
-
-
 1) Increase tech support   capacity for Fiber Optic customers and lower tech tickets per customer to 0.5
-
-
-
 2) Increase sale of 1 and 2 year contracts by 5% each
-
-
-
 3) Yearly increase of automatic payments by 5%
-
-
-
 1)R&D department has higher attrition count.
-
 2)The attrition rate is higher between the age group of 25-34.
-
 3)60% of the employees are male and 40% of the employees are female.
-
 3)Total attrition rate is 16.12%
-
 4)Total of 1233 active employees are there in the company.
-
 5)The rate of attrition is higher for those employees who have bachelor's degree.
-
 6)Average age of employees working in the company are 55.
-
 7)Production deparment has always paid highest annual salary to their employees amongst the given job titles.
-
 please give your valuable feedback and suggestions for furthur improvement.
 
 
