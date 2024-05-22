@@ -13,7 +13,6 @@ To publish the findings based on data analysis.
 *For analyzing the data,various factors affecting the business(i,e) should be listed out.
 
 
-*In this case study,there are 21 factors mentioning the age,salary,marital status,credit card limit,credit card score etc of 10,000 customers.
 In this case study,there are 21 factors mentioning the age,salary,marital status, tenure, credit card score,balance,has cardit card, isactivate memberm, credit card type,geography,gender, no of products, complain, exited etc of 10,000 customers.
 
 #IMPORTANT FACTORS FORMING A GENERAL TREND AMONGST THE ATTRITED CUSTOMERS ARE AS FOLLOWS:- --> Customer's age --> Income category --> Gender --> Tenure of relationship with bank ---> Marital status --> Education level --> Average utilisation
@@ -21,6 +20,6 @@ In this case study,there are 21 factors mentioning the age,salary,marital status
 
 Key Takeways:-
 
-4
+
 
 
