@@ -2,4 +2,19 @@ Situation: The project's objective is to assist Social Buzz in preparing for an 
 Understanding Project Objectives:
 platform receives over 100000 posts per day which amounts to 36 500 000 posts every year, of which, this is all unstructured data making it very hard to make sense of.
 
+To creating 3 months monitering on Social Media Data
 In this day and age, content is king. Just look at some of the biggest platforms in the world, for example YouTube, Facebook and Netflix... they are all content businesses... 
+Food is a common theme with the top 5 categories with "Healthy Eating" ranking the highest. This may give an indication to the audience within your user base. You could use this insight to create a campaign and work with healthy eating brands to boost user engagement.
+
+Watchtime affecting factors:
+*watch time, subscriber growth, engagement rates, and revenue.
+
+🧹 DATA PREPARATION:
+*Create various visualizations to track metrics
+*Merge queries and creating new columns, measures, and applying transformations.
+*Published report and Share in power bi services as well as refreshes our report to get latest data.
+*Set up scheduled refreshes to ensure data is up-to-date.
+* Regularly check the performance of the Power BI reports to ensure they load quickly and display accurate data.
+
+Key Insuights:
+*
