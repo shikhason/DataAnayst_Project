@@ -1,13 +1,13 @@
 Situation: The project's objective is to assist Social Buzz in preparing for an IPO while leveraging the advisory firm's expertise to support their rapid growth and complex data needs.
-Understanding Project Objectives:
-platform receives over 100000 posts per day which amounts to 36 500 000 posts every year, of which, this is all unstructured data making it very hard to make sense of.
+in this case study according to the bussiness need  I have 3 months monitering on Social Media Data
 
-To creating 3 months monitering on Social Media Data
+Understanding Project Objectives: 
+platform receives over 100000 posts per day which amounts to 36 500 000 posts every year, of which, this is all unstructured data making it very hard to see the trend.
 In this day and age, content is king. Just look at some of the biggest platforms in the world, for example YouTube, Facebook and Netflix... they are all content businesses... 
-Food is a common theme with the top 5 categories with "Healthy Eating" ranking the highest. This may give an indication to the audience within your user base. You could use this insight to create a campaign and work with healthy eating brands to boost user engagement.
 
 Watchtime affecting factors:
 *watch time, subscriber growth, engagement rates, and revenue.
+*Various content categorieslike Science,Healthy eating, Food, Technology, Travel,Cooking.
 
 🧹 DATA PREPARATION:
 *Create various visualizations to track metrics
@@ -17,4 +17,4 @@ Watchtime affecting factors:
 * Regularly check the performance of the Power BI reports to ensure they load quickly and display accurate data.
 
 Key Insuights:
-*
+*Food is a common theme with the top 5 categories with "Healthy Eating" ranking the highest. This may give an indication to the audience within your user base. You could use this insight to create a campaign and work with healthy eating brands to boost user engagement.
