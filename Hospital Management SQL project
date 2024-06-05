@@ -31,7 +31,7 @@ Select top 10 * from Admission
 Select * from Discharge
 
 /*Checking for number of rows in the tables*/
-SELECT count(*)FROM [dbo].[Room] /*there are 584 rows in Room table*/
+SELECT count(*)FROM [dbo].[Room] /*there are 80 rows in Room table*/
 SELECT count(*)FROM [dbo].[Department] /*there are 20 rows in Department table*/
 
 /*This statement will add new column and define constraints to the table*/
@@ -44,7 +44,8 @@ ALTER TABLE [dbo].[Bed] ADD  CONSTRAINT [DF__BedId__UpdatedDa__10E07F16]  DEFAUL
 ALTER TABLE [dbo].[Bill]  WITH CHECK ADD  CONSTRAINT [FK_Bill_Visit] FOREIGN KEY([VisitId])
 ALTER TABLE [dbo].[Bill] CHECK CONSTRAINT [FK_Bill_Visit]
 
-
+/*Create SCHEMA so that we can see the list of tables*/
+SELECT *FROM INFORMATION_SCHEMA.TABLES
 
 
 
