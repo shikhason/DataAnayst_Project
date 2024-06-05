@@ -34,8 +34,16 @@ Select * from Discharge
 SELECT count(*)FROM [dbo].[Room] /*there are 584 rows in Room table*/
 SELECT count(*)FROM [dbo].[Department] /*there are 20 rows in Department table*/
 
-/*This statement will add new column to the table*/
+/*This statement will add new column and define constraints to the table*/
 ALTER TABLE [dbo].[Bill] ADD  CONSTRAINT [DF__Bill__AddedDateT__2BC97F7C]  DEFAULT (getdate()) FOR [AddedDateTime]
+ALTER TABLE [dbo].[AccessRights] ADD  DEFAULT (getdate()) FOR [AddedDateTime]
+ALTER TABLE [dbo].[Admission] ADD  CONSTRAINT [DF__Admission__Admis__18B6AB08]  DEFAULT FOR [AdmissionDate]
+ALTER TABLE [dbo].[Advance] ADD  DEFAULT ((1)) FOR [Status]
+ALTER TABLE [dbo].[ApplicationFunctionality] ADD  DEFAULT ((1)) FOR [Status]
+ALTER TABLE [dbo].[Bed] ADD  CONSTRAINT [DF__BedId__UpdatedDa__10E07F16]  DEFAULT (getdate()) FOR [UpdatedDateTime]
+ALTER TABLE [dbo].[Bill]  WITH CHECK ADD  CONSTRAINT [FK_Bill_Visit] FOREIGN KEY([VisitId])
+ALTER TABLE [dbo].[Bill] CHECK CONSTRAINT [FK_Bill_Visit]
+
 
 
 
