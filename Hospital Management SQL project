@@ -47,7 +47,23 @@ ALTER TABLE [dbo].[Bill] CHECK CONSTRAINT [FK_Bill_Visit]
 /*Create SCHEMA so that we can see the list of tables*/
 SELECT *FROM INFORMATION_SCHEMA.TABLES
 
+Module of this project:
+--Master--                   --Service--       --Admission--
 
+--Department                 --Doctor          --Visit--
+--Gender                     --Patient         --Bill
+--InsuranceCompany           --Staff           --Charge
+--Nationality
+--patientCategory                              --Discharge
+--Relation                                     --Advance
+--ServiceCategory                              --ApplicationFunctionality
+--Unit                                         --AccessRights
+--Ward                                         --User
+--Room
+--Bed                                          --[Prescription]
+--Country                                      --[ClinicalNote]
+--State
+--City
 
 
 
