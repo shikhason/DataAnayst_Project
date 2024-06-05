@@ -34,5 +34,11 @@ Select * from Discharge
 SELECT count(*)FROM [dbo].[Room] /*there are 584 rows in Room table*/
 SELECT count(*)FROM [dbo].[Department] /*there are 20 rows in Department table*/
 
+/*This statement will add new column to the table*/
+ALTER TABLE [dbo].[Bill] ADD  CONSTRAINT [DF__Bill__AddedDateT__2BC97F7C]  DEFAULT (getdate()) FOR [AddedDateTime]
+
+
+
+
 
 
