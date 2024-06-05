@@ -27,8 +27,12 @@ Select * from Discharge
 Select * from ApplicationFunctionality
 Select * from [User]
 Select * from AccessRights
-
-/*Checking for number of rows in both the tables*/
-SELECT count(*)FROM [dbo].[Room] /*there are 584 rows in Room table*/
 Select top 10 * from Admission
 Select * from Discharge
+
+/*Checking for number of rows in the tables*/
+SELECT count(*)FROM [dbo].[Room] /*there are 584 rows in Room table*/
+SELECT count(*)FROM [dbo].[Department] /*there are 20 rows in Department table*/
+
+
+
